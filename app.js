@@ -32,3 +32,17 @@
 
 
 // newWrapperFunk(aFunk)
+
+// const makeIncrementer = (increment) => {
+//     return (value) => {
+//         return increment * value
+//     }
+// }
+
+// const multiplyBy2 = makeIncrementer(2)
+// const multiplyBy3 = makeIncrementer(3)
+
+
+// console.log(multiplyBy2(10));
+// console.log(multiplyBy2(457));
+
